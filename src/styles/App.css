@@ -2,9 +2,10 @@
 .container{
     width: 80vw;
     display: flex;
+    justify-content: center;
     align-items: center;
 }
 .inner{
     background-color: blue;
-    height: 40px;
+    padding: 10px;
 }
