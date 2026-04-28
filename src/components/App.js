@@ -17,7 +17,7 @@ const App = () => {
         setInc(+inc + +1)
         increment()
       }
-    },100)
+    },200)
   }, [inc])
 
 
