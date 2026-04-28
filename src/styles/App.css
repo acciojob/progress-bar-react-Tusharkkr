@@ -1,1 +1,11 @@
 
+.container{
+    width: 80vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+.inner{
+    background-color: blue;
+    padding: 10px;
+}
